@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 KK DEVOPS Hello to KK FUNDA DevSecOps AWS Portal NEW BATCH STARTS ON JUNE 28 🚀</h1>
+    <h1>🚀 KK DEVOPS Hello to KK FUNDA DevSecOps AWS Portal NEW BATCH STARTS shortly 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
