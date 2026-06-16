@@ -46,7 +46,7 @@
 <body>
 
 <header>
-    <h1>🚀 Hello This is Pavan Kumar Reddy, Learning Devops i KK Funda 🚀</h1>
+    <h1>🚀 Hello This is Pavan Kumar Reddy, Learning Jenkins from KK funda 🚀</h1>
     <h3>Training | Development | Consulting</h3>
 </header>
 
