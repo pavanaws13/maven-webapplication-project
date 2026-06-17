@@ -21,7 +21,7 @@
 		<spring.version>5.3.34</spring.version>
 		<junit.version>4.11</junit.version>
 		<log4j.version>1.2.17</log4j.version>
-		<sonar.host.url>http://15.206.211.201:9000/</sonar.host.url>
+		<sonar.host.url>http://35.154.135.180:9000/</sonar.host.url>
 		<sonar.login>admin</sonar.login>
 		<sonar.password>P@vanr13</sonar.password> 
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.203.195.164:8081/repository/pavan-release/</url>
+	      <url>http://13.203.201.31:8081/repository/pavan-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.203.195.164:8081/repository/pavan-snapshot/</url>
+	      <url>http://13.203.201.31:8081/repository/pavan-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
