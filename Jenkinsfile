@@ -30,7 +30,7 @@ node
 
       curl -u admin:P@vanr13 \
 --upload-file /var/lib/jenkins/workspace/Maven-Scripted-Way-PL/target/maven-web-application.war \
-"http://15.207.110.77:8080/manager/text/deploy?path=/maven-web-application&update=true"
+"http://65.0.19.131:8080/manager/text/deploy?path=/maven-web-application&update=true"
           
         """
     }
