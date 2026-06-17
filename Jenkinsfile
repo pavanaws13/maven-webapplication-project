@@ -10,7 +10,7 @@ node
    {
     sh  "${mavenHome}/bin/mvn compile" 
    }
-   /*stage('SQ REPORT')
+   stage('SQ REPORT')
    {
         sh  "${mavenHome}/bin/mvn sonar:sonar" 
    }
@@ -34,5 +34,5 @@ node
           
         """
     }
-	*/
+	
 } //node ending
