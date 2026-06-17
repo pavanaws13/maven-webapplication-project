@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Releases Nexus Repository</name>
-	      <url>http://13.203.201.31:8081/repository/pavan-release/</url>
+	      <url>http://172.31.3.228:8081/repository/pavan-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>KK FUNDA Snapshot Nexus Repository </name>
-	      <url>http://13.203.201.31:8081/repository/pavan-snapshot/</url>
+	      <url>http://172.31.3.228:8081/repository/pavan-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
